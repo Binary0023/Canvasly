@@ -5,7 +5,7 @@
 ```markdown
 # 🤝 Code of Conduct
 
-We want **Canvasly** to be a welcoming and inclusive community.  
+We want Canvasly to be a welcoming and inclusive community.  
 Please follow these rules to keep our community safe and respectful:
 
 ---
@@ -33,10 +33,10 @@ Please follow these rules to keep our community safe and respectful:
 
 ## 🚨 Reporting Issues
 If you see any violations, please report them via:
-- **Email:** syedzamanabbas86@gmail.com
+- Email: syedzamanabbas86@gmail.com
 - Or open an issue with the label `conduct`.
 
 ---
 
 ## 🙌 Community Commitment
-By contributing to **Canvasly**, you agree to follow this Code of Conduct and help build a positive environment.
+By contributing to Canvasly, you agree to follow this Code of Conduct and help build a positive environment.
