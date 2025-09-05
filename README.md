@@ -80,7 +80,7 @@ A powerful design and prototyping platform combining the best features of Figma 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   [git clone <repository-url>](https://github.com/Binary0023/Canvasly.git)
    ```
 
 2. Navigate to the project directory:
