@@ -1,5 +1,5 @@
 
-# Website Builder - Figma & Framer Combined
+#  Canvasly - Website Builder
 
 A powerful design and prototyping platform combining the best features of Figma and Framer.
 
